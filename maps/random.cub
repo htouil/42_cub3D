@@ -1,0 +1,19 @@
+NO textures/new_wall.png
+SO textures/tile_water.png
+WE textures/new_floor.png
+EA textures/studio4.png
+F 255,0,0
+C 0,0,255
+
+
+        111111
+        100001
+   11111100001
+11100000000001
+10100111100001
+101001  100001
+101001  100001
+101001  111111
+100001
+1110N1
+1 111

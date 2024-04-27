@@ -1,0 +1,17 @@
+NO ./textures/wall.png
+SO ./textures/new_floor.png
+WE ./textures/studio3.png
+EA ./textures/studio2.png
+
+F 255,0,0
+C 0,0,255
+
+1111111
+1111011
+1010001
+1010101
+1010001
+1010001
+1010001
+1000N01
+1111111

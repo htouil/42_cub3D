@@ -1,0 +1,11 @@
+NO ./textures/new_wall.png
+SO ./textures/new_floor.png
+EA ./textures/new_wall.png
+WE ./textures/new_floor.png
+
+C 122,122,122
+F 122,122,122
+
+111
+1N1
+111
